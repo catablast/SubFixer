@@ -55,7 +55,7 @@ public class SubFixer {
 	 */
 	public static void main(String[] args) {
 		Boolean debug = false; 
-		debug = true;
+		//debug = true;
 		//printAllChars();
 		HashMap <Character,Character> characterMap = new HashMap<Character, Character>();
 		//Init HashMap with conversionTable
@@ -70,7 +70,7 @@ public class SubFixer {
 				
 		if (debug){
 			;
-			//System.out.println("PRINT: " + args[0]);
+			System.out.println("PRINT: " + args[0]);
 		}
 
 		try{ 
