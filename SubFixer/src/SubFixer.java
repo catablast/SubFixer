@@ -1,3 +1,8 @@
+/**
+ * Created: 2011
+ * By Fevzi Konduk 
+ */
+
 import java.io.BufferedReader;
 import java.io.DataInputStream;
 import java.io.FileInputStream;
